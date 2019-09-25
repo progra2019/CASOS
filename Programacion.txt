@@ -1,0 +1,1 @@
+La progrmacion orinetada a objetos cambia la contextura estructural de un progrma en C
