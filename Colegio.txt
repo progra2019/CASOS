@@ -22,6 +22,7 @@ Estudié en la Unidad Educativa Ramón Barba Naranjo
 <<<<<<< HEAD
 Estudié en el Colegio Técnico Experimental de Aviación Civil "COTAC"
 Estudié en la Unidad Educativa Juan Abel Echeverria.
+Estudie en el Colegio 19 de Septiembre
 =======
 <<<<<<< HEAD
 Estudie en el Colegio "RAMÓN BARBA NARANJO"
