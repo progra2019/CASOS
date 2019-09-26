@@ -12,7 +12,7 @@ Anthony Guillermo Morales Chugchilán
 >>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
 <<<<<<< HEAD
 Romel Israel Toapanta Peréz
-Nestor Andres Valverde Moreno.
+Nestor Andres Valverde Moreno..
 =======
 >>>>>>> 3568f8ff0deb9ae5ef59d1c5895c76de0dff9464
 
@@ -23,3 +23,4 @@ Saul Tobar Grados
 >>>>>>> 708b122626f40d8d482fa3e1f7364b1f0c28e0ad
 Buenos días, Steevenson Navarro
 >>>>>>> a9c8388801aff18c515c04b0479599c6294b3b17
+Andy Dario Tupiza Bastidas 
