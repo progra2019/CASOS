@@ -1,4 +1,15 @@
 ﻿Listado de Colegios donde estudiaron, si ya existe su colegio no lo repita. Gracias
 
+<<<<<<< HEAD
 Estudié en Victoria Vásconez Cuvi
 Estudié en la undidad educativa Ramón Barba Naranjo
+=======
+<<<<<<< HEAD
+Estudie en Victoria Vásconez Cuvi
+Estudie en el Jaime Roldos Aguilera
+Estudie en el colegio Experimental Juan Pio Montufar 
+=======
+Estudie en la Escuela y Colegio particular "Borja Montserrat"
+>>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
+>>>>>>> 3568f8ff0deb9ae5ef59d1c5895c76de0dff9464
+Estudié en la Unidad Educativa Ramón Barba Naranjo
