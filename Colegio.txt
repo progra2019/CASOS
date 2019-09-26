@@ -18,6 +18,7 @@ Estudie en el colegio "Ramón Barba Naranjo"
 >>>>>>> 3568f8ff0deb9ae5ef59d1c5895c76de0dff9464
 Estudié en la Unidad Educativa Ramón Barba Naranjo
 >>>>>>> 708b122626f40d8d482fa3e1f7364b1f0c28e0ad
+
 Estudié en la Unidad Educativa Ramón Barba Naranjo
 <<<<<<< HEAD
 Estudié en el Colegio Técnico Experimental de Aviación Civil "COTAC"
@@ -36,3 +37,6 @@ Estudié en el Colegio Técnico Experimental de Aviación Civil "COTAC"
 Estudié en el Instituto Tecnologico Superior "Sucre"
 >>>>>>> 342595f6e9fb2922d9085b1e31add9dd385f6a93
 Estudié en el Colegio Hermano Miguel
+
+Estudie en la Unidad Educativa Trajano Naranjo Iturralde
+
