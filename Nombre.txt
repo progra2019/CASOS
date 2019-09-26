@@ -1,4 +1,8 @@
 ﻿Buenos dias Señores estudiantes Bienvenidos soy Nancy Jacho Guanoluisa, complete su mensaje y su nombre
+<<<<<<< HEAD
 Christofer Alejandro Veloz Rodriguez
-Pablo Andres Ortiz Villarruel
+Pablo Andrés Ortiz Villarruel
 ojala pasemos todos proramacion
+=======
+Anthony Guillermo Morales Chugchilán
+>>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
