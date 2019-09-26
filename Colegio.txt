@@ -12,5 +12,10 @@ Estudie en la Unidad Educativa "Jorge ALvarez"
 =======
 Estudie en la Escuela y Colegio particular "Borja Montserrat"
 >>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
+<<<<<<< HEAD
+Estudie en el colegio "Ramón Barba Naranjo"
+=======
 >>>>>>> 3568f8ff0deb9ae5ef59d1c5895c76de0dff9464
+Estudié en la Unidad Educativa Ramón Barba Naranjo
+>>>>>>> 708b122626f40d8d482fa3e1f7364b1f0c28e0ad
 Estudié en la Unidad Educativa Ramón Barba Naranjo
