@@ -10,7 +10,7 @@ Casos practicos de POO
 2. Ingrese a su carpeta(Ejercicio), de click derecho dentro de ella y elija la opcion Git Bash Here
 3. Configurar usuario correo e inicializar Git
 - git config --global user.name TuNombredeGitHub 
-- git config --globañ user.email TuemaildeGirHub
+- git config --globaL user.email TuemaildeGirHub
 - git init
 4. Verificar el estado del git
 -   git config -l
@@ -25,12 +25,12 @@ Casos practicos de POO
 8. Listar los archivos con 
 - ls
 9. Modificar archivos y subir al Repositorio 
-- Modificar el archivo Nombres.txt, inserte su nombre y guarde en windows
+- Modificar el archivo Nombre.txt, inserte su nombre y guarde en windows
 - Modificar el archivo Colegio.txt, inserte su colegio y guarde en windows
 10. Comprobar el estado de los archivos con 
 - git status, verifique que sus archivos modificados esten en rojo
 11. Suba el archivo al repositorio local o STAGE  instruccion con
-- git add Nombres.txt
+- git add Nombre.txt
 - git add Colegio.txt
 12. verifique que sus archivos modificados esten en verde 
 - git status
