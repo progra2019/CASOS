@@ -1,3 +1,4 @@
-Listado de Colegios donde estudiaron, si ya existe su colegio no lo repita. Gracias
+﻿Listado de Colegios donde estudiaron, si ya existe su colegio no lo repita. Gracias
 
-Estudie en Victoria Vásconez Cuvi
+Estudié en Victoria Vásconez Cuvi
+Estudié en la undidad educativa Ramón Barba Naranjo
