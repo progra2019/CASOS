@@ -8,6 +8,9 @@ Pablo Andrés Ortiz Villarruel
 ojala pasemos todos proramacion
 Stalyn Wilfrido Lescano Hidalgo 
 =======
+
+brayan  calo 7
+
 Anthony Guillermo Morales Chugchilán
 >>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
 <<<<<<< HEAD
@@ -26,4 +29,5 @@ Buenos días, Steevenson Navarro
 Andy Dario Tupiza Bastidas 
 3902803832083
 BRYAN GUAMAN
-38928913
+3892Pilatasig Jeferson 
+

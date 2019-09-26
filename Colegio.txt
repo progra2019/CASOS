@@ -1,5 +1,5 @@
 ﻿Listado de Colegios donde estudiaron, si ya existe su colegio no lo repita. Gracias
-
+comil 13 patria 
 <<<<<<< HEAD
 Estudié en Victoria Vásconez Cuvi
 Estudié en la undidad educativa Ramón Barba Naranjo
@@ -26,6 +26,7 @@ Estudié en la Unidad Educativa Juan Abel Echeverria.
 <<<<<<< HEAD
 Estudie en el Colegio "RAMÓN BARBA NARANJO"
 =======
+estudie Unidad educativa atahualpa
 Estudié en el Colegio Técnico Experimental de Aviación Civil "COTAC"
 >>>>>>> a9c8388801aff18c515c04b0479599c6294b3b17
 <<<<<<< HEAD
