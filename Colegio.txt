@@ -1,5 +1,5 @@
 ﻿Listado de Colegios donde estudiaron, si ya existe su colegio no lo repita. Gracias
-
+comil 13 patria 
 <<<<<<< HEAD
 Estudié en Victoria Vásconez Cuvi
 Estudié en la undidad educativa Ramón Barba Naranjo
