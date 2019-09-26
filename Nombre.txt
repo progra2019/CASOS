@@ -1,5 +1,8 @@
 ﻿Buenos dias Señores estudiantes Bienvenidos soy Nancy Jacho Guanoluisa, complete su mensaje y su nombre
 <<<<<<< HEAD
+Muy buenos dias Señores estudintes soy Luis Angel Millingalle Simba
+=======
+<<<<<<< HEAD
 Christofer Alejandro Veloz Rodriguez
 Pablo Andrés Ortiz Villarruel
 ojala pasemos todos proramacion
@@ -7,3 +10,5 @@ Stalyn Wilfrido Lescano Hidalgo
 =======
 Anthony Guillermo Morales Chugchilán
 >>>>>>> 6ddbc0408f5093c5e988f520078bf7c4cef3e829
+>>>>>>> 3568f8ff0deb9ae5ef59d1c5895c76de0dff9464
+
